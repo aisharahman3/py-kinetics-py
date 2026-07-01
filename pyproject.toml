@@ -1,0 +1,13 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+authors = [{name = "Marcus Feld"}]
+name = "kinetics"
+version = "0.7.0"
+description = "Arrhenius rates and integrated zero/first/second-order rate laws."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "BSD-3-Clause"}
+keywords = ["chemical", "kinetics"]
