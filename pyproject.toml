@@ -4,7 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 authors = [{name = "Marcus Feld"}]
-name = "kinetics"
+name = "kinetics-py"
 version = "0.7.0"
 description = "Arrhenius rates and integrated zero/first/second-order rate laws."
 readme = "README.md"
